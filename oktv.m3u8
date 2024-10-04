@@ -111,9 +111,9 @@ http://60.208.104.234:352/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 http://60.208.104.234:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",group-title="中央央视台",CCTV-15音乐
 http://60.208.104.234:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",group-title="中央央视台",3CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",group-title="中央央视台",CCTV-16奥林匹克
 http://60.208.104.234:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",group-title="中央央视台",3CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",group-title="中央央视台",CCTV-5+体育赛事
 http://60.208.104.234:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",group-title="中央央视台",CCTV-16奥林匹克

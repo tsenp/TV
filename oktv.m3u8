@@ -38,37 +38,37 @@ http://223.151.49.74:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="中央央视台",CCTV-1综合
-http://61.162.52.6:8088/newlive/live/hls/1/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",group-title="中央央视台",CCTV-2财经
-http://61.162.52.6:8088/newlive/live/hls/2/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",group-title="中央央视台",CCTV-3综艺
-http://61.162.52.6:8088/newlive/live/hls/3/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",group-title="中央央视台",CCTV-4中文国际
-http://61.162.52.6:8088/newlive/live/hls/4/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",group-title="中央央视台",CCTV-5体育
-http://61.162.52.6:8088/newlive/live/hls/5/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",group-title="中央央视台",CCTV-5+体育赛事
 http://61.162.52.6:8088/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",group-title="中央央视台",CCTV-6电影
-http://61.162.52.6:8088/newlive/live/hls/7/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",group-title="中央央视台",CCTV-7国防军事
-http://61.162.52.6:8088/newlive/live/hls/8/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",group-title="中央央视台",CCTV-8电视剧
-http://61.162.52.6:8088/newlive/live/hls/9/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",group-title="中央央视台",CCTV-9记录
-http://61.162.52.6:8088/newlive/live/hls/10/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",group-title="中央央视台",CCTV-10科教
-http://61.162.52.6:8088/newlive/live/hls/11/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",group-title="中央央视台",CCTV-戏曲
-http://61.162.52.6:8088/newlive/live/hls/12/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",group-title="中央央视台",CCTV-12社会与法
-http://61.162.52.6:8088/newlive/live/hls/13/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",group-title="中央央视台",CCTV-13新闻
-http://61.162.52.6:8088/newlive/live/hls/14/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",group-title="中央央视台",CCTV-14少儿
-http://61.162.52.6:8088/newlive/live/hls/15/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",group-title="中央央视台",CCTV-15音乐
-http://61.162.52.6:8088/newlive/live/hls/16/live.m3u8
+http://22725y284r.yicp.fun:9902/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",group-title="中央央视台",CCTV-16奥林匹克
 http://bl.dchwtq.asia:10000/rtp/239.69.1.247:11124
 
